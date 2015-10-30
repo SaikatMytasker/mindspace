@@ -1,4 +1,8 @@
-
+* [About](http://www.linkedin.com/in/ManavKataria)
+* [Inspiration](http://www.linkedin.com/in/ManavKataria)
+* [Applications Areas](#Applications_Areas)
+* [Future Work](http://www.linkedin.com/in/ManavKataria)
+* [Contact](http://www.linkedin.com/in/ManavKataria)
 
 # About #
 We hacked Microsoft Kinect to convert a regular (3D) display into an adaptive (3D) Display by tracking the body movements of a user. This is an extension to Johnny Lee's work on head tracking with the added advantage that here, the user does not have to wear any special device to track their movements. Tested on MS Windows 7 & Vista.
