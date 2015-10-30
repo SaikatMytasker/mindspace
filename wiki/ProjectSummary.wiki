@@ -31,5 +31,4 @@ Project developed at first edition of Design and Innovation Workshop-2011 organi
 
 **Team** [Manav Kataria](http://www.linkedin.com/in/ManavKataria), Shakti Tripathy, Pooja Deshpande, Kaushal Jain and Saniya Shaikh.
 
-![http://manavkataria.files.wordpress.com/2011/03/mitml-logo-web.png](http://manavkataria.files.wordpress.com/2011/03/mitml-logo-web.png)
-console.image("http://manavkataria.files.wordpress.com/2011/03/mitml-logo-web.png");
+![http://manavkataria.files.wordpress.com/2011/03/mitml-logo-web.png](http://manavkataria.files.wordpress.com/2011/03/mitml-logo-web.png?raw=true)
